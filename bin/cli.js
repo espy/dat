@@ -13,7 +13,7 @@ var invalidNode = nodeMajorVer < NODE_VERSION_SUPPORTED
 if (invalidNode) exitInvalidNode()
 
 if (debug.enabled) {
-  debug('Dat DEBUG mode engaged, enabling quiet mode')
+  debug('Dat DEBUG mogde engaged, enabling quiet mode')
 }
 
 var config = {
